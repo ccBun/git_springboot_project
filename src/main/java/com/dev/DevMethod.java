@@ -18,4 +18,8 @@ public class DevMethod {
     public void dev4Cen1() {
         System.out.println("dev_cen method1");
     }
+
+    public void dev4Cen2() {
+        System.out.println("dev_cen method2");
+    }
 }
