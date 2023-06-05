@@ -5,4 +5,8 @@ public class DevMethod {
     public void devM1() {
         System.out.println("dev exclusive");
     }
+
+    public void dev4Cen1() {
+        System.out.println("dev_cen method");
+    }
 }
