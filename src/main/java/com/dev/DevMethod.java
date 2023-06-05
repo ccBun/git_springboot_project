@@ -7,6 +7,6 @@ public class DevMethod {
     }
 
     public void dev4Cen1() {
-        System.out.println("dev_cen method");
+        System.out.println("dev_cen method1");
     }
 }
