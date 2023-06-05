@@ -10,4 +10,8 @@ public class DevMethod {
         System.out.println("dev exclusive");
     }
 
+    public void devM3() {
+        System.out.println("dev exclusive");
+    }
+
 }
