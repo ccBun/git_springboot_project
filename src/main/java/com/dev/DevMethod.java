@@ -4,6 +4,7 @@ public class DevMethod {
     
     private String name;
     private int age;
+    private Date birthday;
 
     public void devM1() {
         System.out.println("dev exclusive");
