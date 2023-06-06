@@ -3,6 +3,7 @@ package com.dev;
 public class DevMethod {
     
     private String name;
+    private int age;
 
     public void devM1() {
         System.out.println("dev exclusive");
