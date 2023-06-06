@@ -1,9 +1,13 @@
 package com.dev;
 
+import java.util.Date;
+
 public class DevMethod {
     
     private String name;
     private int age;
+    private Date birthday;
+    private String address;
 
     public void devM1() {
         System.out.println("dev exclusive");
