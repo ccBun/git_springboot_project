@@ -1,6 +1,8 @@
 package com.dev;
 
 public class DevMethod {
+    
+    private String name;
 
     public void devM1() {
         System.out.println("dev exclusive");
